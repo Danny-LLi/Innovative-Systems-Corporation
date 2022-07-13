@@ -162,7 +162,7 @@
                 <h1 class="section-4-heading">Get started with PaymentGateway.</h1>
                 <div class="section-4-content">
                     <div class="section-4-img-wrapper">
-                        <img src="images/macbook.png">
+                        <img src="macbook.png">
                     </div>
                     <ul class="section-4-list">
                         <li class="section-4-list-item">
