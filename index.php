@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Send Money, Pay Online, or Set Up a Merchant Account.</title>
-    <link rel="stylesheet" type="text/css" href="style1.css? <?php echo time(); ?> "/>
-    <link rel="stylesheet" href="style3.css">
+    <link rel="stylesheet" type="text/css" href="css/style1.css? <?php echo time(); ?> "/>
+    <link rel="stylesheet" href="css/style3.css">
 </head>
 
 <body>
@@ -162,7 +162,7 @@
                 <h1 class="section-4-heading">Get started with PaymentGateway.</h1>
                 <div class="section-4-content">
                     <div class="section-4-img-wrapper">
-                        <img src="macbook.png">
+                        <img src="img/macbook.png">
                     </div>
                     <ul class="section-4-list">
                         <li class="section-4-list-item">
